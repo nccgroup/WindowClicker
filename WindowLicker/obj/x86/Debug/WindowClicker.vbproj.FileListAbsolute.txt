@@ -1,0 +1,13 @@
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.frmAbout.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.frmMain.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.vbproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowClicker.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowClicker.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowClicker.xml
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.exe
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.xml
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.frmLoopEvent.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.frmOptions.resources
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowClicker.frmProperties.resources

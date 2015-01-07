@@ -1,0 +1,9 @@
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.frmMain.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.Resources.resources
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.vbproj.GenerateResource.Cache
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowLicker.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowLicker.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\bin\Debug\WindowLicker.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.exe
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.xml
+C:\Users\Nick\documents\visual studio 2010\Projects\WindowLicker\WindowLicker\obj\x86\Debug\WindowLicker.pdb

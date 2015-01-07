@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WindowClicker", "WindowLicker\WindowClicker.vbproj", "{31A1F597-8704-4A10-A5F3-96FC55EE6D33}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WC-Setup", "WC-Setup\WC-Setup.vdproj", "{E1806C82-81EA-48B3-9AD0-AF63C7CFD17F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A1F597-8704-4A10-A5F3-96FC55EE6D33}.Debug|x86.ActiveCfg = Debug|x86
+		{31A1F597-8704-4A10-A5F3-96FC55EE6D33}.Debug|x86.Build.0 = Debug|x86
+		{31A1F597-8704-4A10-A5F3-96FC55EE6D33}.Release|x86.ActiveCfg = Release|x86
+		{31A1F597-8704-4A10-A5F3-96FC55EE6D33}.Release|x86.Build.0 = Release|x86
+		{E1806C82-81EA-48B3-9AD0-AF63C7CFD17F}.Debug|x86.ActiveCfg = Debug
+		{E1806C82-81EA-48B3-9AD0-AF63C7CFD17F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

